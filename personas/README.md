@@ -56,7 +56,7 @@ Additionally consumers will typically interact with a large number of vertical a
 
 ![Some identity app](images/some-identity-app@128h.png)
 
-
+![Some identity app text](images/some-identity-app-text.png)
 
 ![Some identity app](images/some-identity-app@128h.png)
 
@@ -74,7 +74,7 @@ SomeIdentityApp is a secured identity app that consumers interact with directly 
 
 SomeApp is a well known commercial web service and app that consumer interact with directly on their devices. It is representative of any vertical app in any given commercial vertical business area, such as direct retail, hospitality, technology applications, communications, etc.
 
-![Some brand](images/some-brand@64h.png) ![Some brand text](images/some-brand-text@64h.png)
+![Some brand](images/some-brand@64h.png) ![Some brand](images/some-brand@64h.png) ![Some brand](images/some-brand@64h.png) ![Some brand text](images/some-brand-text@64h.png)
 
 SomeBrand is a public facing brand that consumer interact with directly. It is representative of any commercial vertical business, in an area such as retail, hospitality, technology, communications, energy, real estate etc. It is differentiate from SomeApp in that it does not necessarily offer a consumer app.
 
