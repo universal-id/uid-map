@@ -69,12 +69,10 @@ Additionally consumers will typically interact with a large number of vertical a
 
 ### 🆔 Identity app
 
-![Some identity app](images/some-identity-app.png)
-![Some identity app text](images/some-identity-app-text.png)
+![Some identity app](images/some-identity-app.png)![Some identity app text](images/some-identity-app-text.png)
 
 
-![Some identity app](images/some-identity-app@128h.png)
-![Some identity app text](images/some-identity-app-text@128h.png)
+![Some identity app](images/some-identity-app@128h.png)![Some identity app text](images/some-identity-app-text@128h.png)
 
 
 ![Some identity app][some-identity-app]![Some identity app text][some-identity-app-text]
