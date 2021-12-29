@@ -6,13 +6,13 @@ The topic contains the collection of meta information needed to make sense of th
 
 The comprehensive map we are putting together should encompass all levels of activity in the industry, starting from the very top level (industry itself), continuing down to the various ecosystems, underlying markets and use-cases, and drilling down to the specific products, scenarios and features. At all of these levels we will be able to apply the lenses, tools and perspectives described above, in order to build an even more comprehensive understanding. See other sections for definitions of meta-subjects such as lenses, tools, perspectives and domains.
 
-![Meta map and examples](images/meta-map.png)
+![Meta map and examples](../meta/images/meta-map.png)
 
 ### 🎚 Levels
 
 There is a certain hierarchy to the industry map with multiple levels, each corresponding to different economic activity value orders of magnitude. The exact dollar calculation for each level activity is not precise or even feasible to obtain in some cases. Nonetheless we have included approximate values for illustrative purposes only, meaning these exact figures should not be taken too seriously.
 
-![Map levels](images/map-levels@500w.png)
+![Map levels](../meta/images/map-levels@500w.png)
 
 Below are the levels used in the map, followed by their estimated economic order of magnitude:
 
@@ -118,13 +118,13 @@ For each of the major ecosystem entities and their products, plan for operations
 
 Parts of these steps may occur in parallel or out of order, however the general sequence remains as shown above. Throughout this effort the map of industry in its current and future forms comes together gradually.
 
-![Methodology and mapping](images/methodology.png)
+![Methodology and mapping](../meta/images/methodology.png)
 
 ## 💭 Meta-concepts
 
 Here we define the concepts needed for building an objective meta-map of how our effort makes sense of the world. This high level perspective helps describe different aspects of the external world such as markets and ecosystems.
 
-![Mapping meta-concepts](<images/meta-concepts (1) (1).png>)
+![Mapping meta-concepts](<../meta/images/meta-concepts (1) (1).png>)
 
 ### 👁 Perspectives
 
@@ -197,7 +197,7 @@ focuses on public policy, legal enforcement and balancing them across multiple p
 
 Domains refer to high level areas of knowledge and skills that have to do with differences in nature of the main subject matters, namely: humans, technologies and the economy.
 
-![Domains and examples](images/domains@500w.png)
+![Domains and examples](../meta/images/domains@500w.png)
 
 #### 🧑 Human
 

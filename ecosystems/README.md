@@ -1,12 +1,10 @@
-# 🌐 [Ecosystems](../meta/README.md#ecosystem)
+# 🌐 Ecosystems
 
 Most ecosystems can be further divided down into sub-ecosystems, often based on how flow of value converges within certain groups of ecosystem players. The identity space or ecosystem can be divided into the consumer, business and government segments, or separately separated based on the type of technology (digital, physical, etc) and technology wave (on-premise, web 2.0, etc).
 
-![Identity ecosystem map][ecosystem-map]
+![Identity ecosystem map](images/ecosystem-map.png)
 
-[ecosystem-map]: images/ecosystem-map.png
-
-## 〰️ By [technology wave](../meta/README.md#technology-wave)
+## 〰️ By [technology wave](../analysis/meta.md#technology-wave)
 
 The top sub-ecosystems of an industry are formed based on specific technology waves that transform that industry by pushing the frontiers of efficiency. For the identity industry this mainly involves the developments in digital technologies and the internet.
 
@@ -24,7 +22,7 @@ During the web 1.0 era, intranet and LDAP (Lightweight Directory Access Protocol
 
 ### 🛸 Web 3.0
 
-## ☮️ By [segment](../meta/README.md##ecosystem-segment)
+## ☮️ By [segment](../analysis/meta.md##ecosystem-segment)
 
 ### 🧑 Consumer (default)
 
@@ -48,4 +46,4 @@ The business market is often further divided into segments for small businesses,
 
 ## ⚙️ Industry extension
 
-Given that the identity [systems] industry is a supporting industry, its value chains are extended into other essential industries such as healthcare, finance and hospitality. As such we can consider specific vertical industry extensions in parts of the ecosystem that have corresponding value chains. For example, the fact that AirBnB uses Facebook login means that the consumer identity ecosystem is extended into the hospitality industry for specific use cases involving the AirBnB vertical industry app.
+Given that the identity \[systems] industry is a supporting industry, its value chains are extended into other essential industries such as healthcare, finance and hospitality. As such we can consider specific vertical industry extensions in parts of the ecosystem that have corresponding value chains. For example, the fact that AirBnB uses Facebook login means that the consumer identity ecosystem is extended into the hospitality industry for specific use cases involving the AirBnB vertical industry app.

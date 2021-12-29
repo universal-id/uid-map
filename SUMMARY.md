@@ -1,8 +1,8 @@
 # Table of contents
 
 * [🗺 Identity industry map](README.md)
-* [🧐 Meta](meta/README.md)
 * [🔬 Analysis](analysis/README.md)
+  * [🧐 Meta](analysis/meta.md)
   * [🛠 Tools](analysis/tools/README.md)
   * [💸 Economics](analysis/economics/README.md)
   * [🏁 Ongoing efforts](analysis/efforts/README.md)
